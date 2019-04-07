@@ -3,5 +3,5 @@ Tiny sudoku solver
 
 ## QuickStart
 ```
-python sudoku.py
+python3 sudoku.py
 ```
